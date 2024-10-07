@@ -29,6 +29,8 @@ public class UncheckedBase extends Request implements CrudInterfase {
         return RestAssured
                 .given()
                 .spec(spec)
+                .header("Content-type", "application/json")
+                .header("Accept", "application/json, application/javascript")
                 .get(endpoint.getUrl() + "/id:" + id);
     }
 
@@ -37,6 +39,8 @@ public class UncheckedBase extends Request implements CrudInterfase {
         return RestAssured
                 .given()
                 .spec(spec)
+                .header("Content-type", "application/json")
+                .header("Accept", "application/json, application/javascript")
                 .body(model)
                 .put(endpoint.getUrl() + "/id:" + id);
     }
@@ -46,6 +50,8 @@ public class UncheckedBase extends Request implements CrudInterfase {
         return RestAssured
                 .given()
                 .spec(spec)
+                .header("Content-type", "application/json")
+                .header("Accept", "application/json, application/javascript")
                 .delete(endpoint.getUrl() + "/id:" + id);
     }
 }

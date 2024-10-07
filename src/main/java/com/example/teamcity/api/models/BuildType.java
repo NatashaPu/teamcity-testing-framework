@@ -3,6 +3,7 @@ package com.example.teamcity.api.models;
 import com.example.teamcity.api.anatation.Optional;
 import com.example.teamcity.api.anatation.Parameterizable;
 import com.example.teamcity.api.anatation.Random;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -12,13 +13,12 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class BuildType extends BaseModel {
 
     private String id;
     @Random
     private String name;
-    @Parameterizable
     private Project project;
-    @Optional
     private Steps step;
 }
