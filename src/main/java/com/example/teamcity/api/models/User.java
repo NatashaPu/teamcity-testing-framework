@@ -18,6 +18,7 @@ public class User extends BaseModel {
 
     @Random
     private String username;
+    private String id;
     @Random
     private String password;
     private Roles roles;
