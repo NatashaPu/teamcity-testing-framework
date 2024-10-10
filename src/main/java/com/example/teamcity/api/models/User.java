@@ -1,5 +1,6 @@
 package com.example.teamcity.api.models;
 
+import com.example.teamcity.api.anatation.Parameterizable;
 import com.example.teamcity.api.anatation.Random;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
