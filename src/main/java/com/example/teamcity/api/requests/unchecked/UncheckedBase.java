@@ -25,33 +25,33 @@ public class UncheckedBase extends Request implements CrudInterfase {
     }
 
     @Override
-    public Response read(String id) {
+    public Response read(String locator) {
         return RestAssured
                 .given()
                 .spec(spec)
                 .header("Content-type", "application/json")
                 .header("Accept", "application/json, application/javascript")
-                .get(endpoint.getUrl() + "/id:" + id);
+                .get(endpoint.getUrl() + "/" + locator);
     }
 
     @Override
-    public Response update(String id, BaseModel model) {
+    public Response update(String locator, BaseModel model) {
         return RestAssured
                 .given()
                 .spec(spec)
                 .header("Content-type", "application/json")
                 .header("Accept", "application/json, application/javascript")
                 .body(model)
-                .put(endpoint.getUrl() + "/id:" + id);
+                .put(endpoint.getUrl() + "/" + locator);
     }
 
     @Override
-    public Response delete(String id) {
+    public Response delete(String locator) {
         return RestAssured
                 .given()
                 .spec(spec)
                 .header("Content-type", "application/json")
                 .header("Accept", "application/json, application/javascript")
-                .delete(endpoint.getUrl() + "/id:" + id);
+                .delete(endpoint.getUrl() + "/" + locator);
     }
 }
