@@ -61,8 +61,6 @@ i
 9src/main/java/com/example/teamcity/ui/pages/BasePage.java,1\2\123416dfd3f412933cbb4959c3961a6dda1ad6af
 g
 7src/test/java/com/example/teamcity/api/BaseApiTest.java,1\f\1f620bba876b4d8578ecb0f839dc08f5b24c5ddd
-j
-:src/test/java/com/example/teamcity/api/BuildTypeTests.java,3\5\3574b4a867e125f96f7a7db62f48a58e5a30eb3c
 e
 5src/test/java/com/example/teamcity/ui/BaseUiTest.java,d\7\d7d299d4271203431e22b8ea4df79e7deb83434a
 l
