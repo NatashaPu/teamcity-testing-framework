@@ -29,7 +29,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: TeamCity Setup
-        uses: NatashaPu/teamcity-testing-framework/.github/actions/teamcity-setup
+        uses: ./.github/actions/teamcity-setup
 
       - name: Run tests
         continue-on-error: true
