@@ -13,7 +13,7 @@ jobs:
 
   deploy-stage:
     needs: test
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy frontend to stage/review app
         run: echo Происходит деплой фронта
