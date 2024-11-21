@@ -4,23 +4,23 @@ on: push
 jobs:
   #Собирается бекенд и деплоится на стейдж/review app
   backend:
-    uses: C:/Users/Natasha/IdeaProjects/WorkshopWTF/.github/workflows/backend-stage.yml
+    uses: NatashaPu/teamcity-testing-framework/.github/workflows/backend-stage.yml
 
   #Собирается фронт и деплоится на стейдж/review app
   frontend:
-    uses: C:/Users/Natasha/IdeaProjects/WorkshopWTF/.github/workflows/frontend-stage.yml
+    uses: NatashaPu/teamcity-testing-framework/.github/workflows/frontend-stage.yml
 
   #Прогоняются API тесты
   automation-api:
     needs: [ backend, frontend ]
-    uses: C:/Users/Natasha/IdeaProjects/WorkshopWTF/.github/workflows/automation.yml
+    uses: NatashaPu/teamcity-testing-framework/.github/workflows/automation.yml
     with:
       package: api
 
   #Прогоняются UI тесты
   automation-ui:
     needs: [ backend, frontend ]
-    uses: C:/Users/Natasha/IdeaProjects/WorkshopWTF/.github/workflows/automation.yml
+    uses: NatashaPu/teamcity-testing-framework/.github/workflows/automation.yml
     with:
       package: ui
 

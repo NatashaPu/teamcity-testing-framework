@@ -13,7 +13,7 @@ jobs:
 
   deploy-stage:
     needs: build
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Deploy backend to stage/review app
         run: echo Происходит деплой бекенда
