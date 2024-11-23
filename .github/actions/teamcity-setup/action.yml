@@ -66,6 +66,7 @@ runs:
       run: cat src/main/resources/config.properties
 
     - name: Make mvnw executable
+      shell: bash
       run: chmod +x ./mvnw
 
     - name: Setup TeamCity server
