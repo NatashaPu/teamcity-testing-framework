@@ -17,8 +17,11 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v4
         with:
-          java-version: '17'
+          java-version: '19'
           distribution: 'zulu'
+
+      - name: Make mvnw executable
+        run: chmod +x ./mvnw
 
       - name: Validate Checkstyle
         run: ./mvnw validate
@@ -35,6 +38,24 @@ jobs:
         continue-on-error: true
         #Указываем группу, чтобы не запустить тесты, связанные с сетапом TeamCity
         run: ./mvn test -Dtest='com.example.teamcity.${{ inputs.package}}.**' -Dgroups=Regression
+
+        #Создаём репорт с покрытием API тестов, основанном на Swagger.
+        #Документация https://github.com/viclovsky/swagger-coverage/blob/master/README.md
+        #Обязательно добавить фильтр SwaggerCoverageRestAssured  в RestAssured
+      - name: Run Swagger Coverage
+        continue-on-error: true
+        if: ${{ inputs.package == 'api' }}
+        run: .swagger-coverage-commondline/bin/swagger-coverage-commandline -s http://$HOST:8111/app/rest/swagger.json > teamcity.json -i target/swagger-coverage-output
+
+        # Сохраняем Swagger Report в артефакты GitHub Actions
+      - name: Save Swagger Coverage
+        uses: actions/upload-artifact@v4
+        if: ${{ inputs.package == 'api' }}
+        with:
+          name: swagger-coverage
+          path: |
+            swagger-coverage-report.html
+            swagger-coverage-results.json
 
           
 
