@@ -1,0 +1,48 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(åœøèıÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÚ" Add a description to this table.(‡ìÔùÿÿÿÿ
+@	Web:S5256Ú"%Add "<th>" headers to this "<table>".(‡ìÔùÿÿÿÿ
+NWeb:TableWithoutCaptionCheckğ" Add a description to this table.(¿‰˜ÿÿÿÿÿ
+@	Web:S5256ğ"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ
+>	Web:S1827’"(Remove this deprecated "name" attribute.(©Èœğ
+C	Web:S1827§"(Remove this deprecated "name" attribute.(ò«Ë¤ıÿÿÿÿ
+C	Web:S1827í"(Remove this deprecated "name" attribute.(Œ“Áøıÿÿÿÿ
+C	Web:S1827³"(Remove this deprecated "name" attribute.(í¾“Şıÿÿÿÿ
+C	Web:S1827ÿ"(Remove this deprecated "name" attribute.(÷ìÅ¬ûÿÿÿÿ
+>	Web:S1827È"(Remove this deprecated "name" attribute.(È³‹«
+>	Web:S1827– "(Remove this deprecated "name" attribute.(¢©íÆ
+C	Web:S1827ã "(Remove this deprecated "name" attribute.(Üúóäøÿÿÿÿ
+C	Web:S1827¨!"(Remove this deprecated "name" attribute.(ö©•»şÿÿÿÿ
+C	Web:S1827ñ!"(Remove this deprecated "name" attribute.(ûøó¾úÿÿÿÿ
+IWeb:TableWithoutCaptionCheck "" Add a description to this table.(º¸­¨
+YWeb:FrameWithoutTitleCheckâ)"-Add a "title" attribute to this <iframe> tag.(ÃË‹ûÿÿÿÿ
+ajavascript:S4030Ğ"?Either use this collection's contents or remove the collection.(µÿÛúÿÿÿÿ
+ajavascript:S6660É"?'If' statement should not be the only statement in 'else' block(ù÷‡Œıÿÿÿÿ
+€javascript:S2392î"cConsider moving declaration of 'extensionName' as it is referenced outside current binding context.(’ä²Ö
+ajavascript:S6660…"?'If' statement should not be the only statement in 'else' block(ßà¼¶ùÿÿÿÿ
+xjavascript:S6582õ"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(©ØõŸ
+}javascript:S6582¬"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(²Áùÿÿÿÿ
+hjavascript:S1764"KCorrect one of the identical sub-expressions on both sides of operator "=="(üê¶
+mjavascript:S1764‘"KCorrect one of the identical sub-expressions on both sides of operator "=="(–Ò÷³ùÿÿÿÿ
+hjavascript:S1764É"KCorrect one of the identical sub-expressions on both sides of operator "=="(üê¶
+mjavascript:S1764Ê"KCorrect one of the identical sub-expressions on both sides of operator "=="(–Ò÷³ùÿÿÿÿ
+xjavascript:S6582Ã"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(¹¼Ü¡
+Sjavascript:S1125Å"6Refactor the code to avoid using this boolean literal.(©„¦¿
+gjavascript:S6638Å"JUnexpected constant truthiness on the left-hand side of a `&&` expression.(©„¦¿
+]javascript:S2589à"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
+Xjavascript:S1125á"6Refactor the code to avoid using this boolean literal.(ÌÃÅÁûÿÿÿÿ
+ljavascript:S6638á"JUnexpected constant truthiness on the left-hand side of a `&&` expression.(ÌÃÅÁûÿÿÿÿ
+ljavascript:S6638ã"JUnexpected constant truthiness on the left-hand side of a `||` expression.(¶¶Ç·üÿÿÿÿ
+Xjavascript:S1125ã"6Refactor the code to avoid using this boolean literal.(¶¶Ç·üÿÿÿÿ
+ljavascript:S6638ã"JUnexpected constant truthiness on the left-hand side of a `&&` expression.(¶¶Ç·üÿÿÿÿ
++	css:S4658"Unexpected empty block(®ÄŸí
+,	css:S4658á"Unexpected empty block(æ¦ìœ
+A	css:S4649Â"&Unexpected missing generic font family(Æ»ş€şÿÿÿÿ
+]	css:S4666º"BUnexpected duplicate selector ".link_17c", first used at line 2607(Âõ®şúÿÿÿÿ
+]	css:S4666å"BUnexpected duplicate selector ".link_17c", first used at line 2607(Âõ®şúÿÿÿÿ
+2	css:S4667ï"Unexpected empty source(ú÷˜Ÿÿÿÿÿÿ
+2	css:S4667ÿ"Unexpected empty source(Ò¿šÊøÿÿÿÿ
+2	css:S4667œ&"Unexpected empty source(ğÛÛ¿øÿÿÿÿ
+2	css:S4667á&"Unexpected empty source(€«¦‘ûÿÿÿÿ
+-	css:S4667İ*"Unexpected empty source(„¬Ñ†
+2	css:S4667•,"Unexpected empty source(Œ˜’ûÿÿÿÿ

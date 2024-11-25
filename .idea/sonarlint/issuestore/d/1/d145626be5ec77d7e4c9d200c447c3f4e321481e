@@ -1,0 +1,112 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(üâÓÅûÿÿÿÿ
+C	Web:S1827Ó"(Remove this deprecated "name" attribute.(ßÏ¬ëüÿÿÿÿ
+>	Web:S1827Ø"(Remove this deprecated "name" attribute.(Ú¼Èé
+>	Web:S1827ó"(Remove this deprecated "name" attribute.(œØ
+NWeb:TableWithoutCaptionCheck“" Add a description to this table.(‡ìÔùÿÿÿÿ
+@	Web:S5256“"%Add "<th>" headers to this "<table>".(‡ìÔùÿÿÿÿ
+NWeb:TableWithoutCaptionCheck©" Add a description to this table.(¿‰˜ÿÿÿÿÿ
+@	Web:S5256©"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ
+>	Web:S1827À"(Remove this deprecated "name" attribute.(Â Çå
+NWeb:TableWithoutCaptionCheckÇ" Add a description to this table.(òäÅ©şÿÿÿÿ
+@	Web:S5256Ç"%Add "<th>" headers to this "<table>".(òäÅ©şÿÿÿÿ
+>	Web:S1827é"(Remove this deprecated "name" attribute.(ğÈÖ€
+>	Web:S1827î"(Remove this deprecated "name" attribute.(¯¡«¯
+>	Web:S1827ó"(Remove this deprecated "name" attribute.(šÁÑİ
+>	Web:S1827ø"(Remove this deprecated "name" attribute.( ‘Êó
+IWeb:TableWithoutCaptionCheck‚" Add a description to this table.(œñ©á
+;	Web:S5256‚"%Add "<th>" headers to this "<table>".(œñ©á
+IWeb:TableWithoutCaptionCheck¥" Add a description to this table.(«îìû
+;	Web:S5256¥"%Add "<th>" headers to this "<table>".(«îìû
+IWeb:TableWithoutCaptionCheck…" Add a description to this table.(œñ©á
+;	Web:S5256…"%Add "<th>" headers to this "<table>".(œñ©á
+NWeb:TableWithoutCaptionCheck¨" Add a description to this table.(İµœÿÿÿÿÿ
+@	Web:S5256¨"%Add "<th>" headers to this "<table>".(İµœÿÿÿÿÿ
+IWeb:TableWithoutCaptionCheck„" Add a description to this table.(ü†­ü
+;	Web:S5256„"%Add "<th>" headers to this "<table>".(ü†­ü
+IWeb:TableWithoutCaptionCheckë" Add a description to this table.(°şÎÖ
+;	Web:S5256ë"%Add "<th>" headers to this "<table>".(°şÎÖ
+NWeb:TableWithoutCaptionCheckÇ" Add a description to this table.(èì·ºúÿÿÿÿ
+@	Web:S5256Ç"%Add "<th>" headers to this "<table>".(èì·ºúÿÿÿÿ
+IWeb:TableWithoutCaptionCheck‡ " Add a description to this table.(êçú°
+;	Web:S5256‡ "%Add "<th>" headers to this "<table>".(êçú°
+NWeb:TableWithoutCaptionCheckã " Add a description to this table.(ŞÈ–½úÿÿÿÿ
+@	Web:S5256ã "%Add "<th>" headers to this "<table>".(ŞÈ–½úÿÿÿÿ
+IWeb:TableWithoutCaptionCheck¿!" Add a description to this table.(ã¨Ò
+;	Web:S5256¿!"%Add "<th>" headers to this "<table>".(ã¨Ò
+NWeb:TableWithoutCaptionCheck›"" Add a description to this table.(½¸Í’ùÿÿÿÿ
+@	Web:S5256›""%Add "<th>" headers to this "<table>".(½¸Í’ùÿÿÿÿ
+NWeb:TableWithoutCaptionCheck÷"" Add a description to this table.(ˆ”Ùùÿÿÿÿ
+@	Web:S5256÷""%Add "<th>" headers to this "<table>".(ˆ”Ùùÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÓ#" Add a description to this table.(úâ¶üÿÿÿÿ
+@	Web:S5256Ó#"%Add "<th>" headers to this "<table>".(úâ¶üÿÿÿÿ
+IWeb:TableWithoutCaptionCheck¯$" Add a description to this table.(ñ•ûù
+;	Web:S5256¯$"%Add "<th>" headers to this "<table>".(ñ•ûù
+IWeb:TableWithoutCaptionCheck‹%" Add a description to this table.(Â•Œù
+;	Web:S5256‹%"%Add "<th>" headers to this "<table>".(Â•Œù
+IWeb:TableWithoutCaptionCheckç%" Add a description to this table.(‘ùÎö
+;	Web:S5256ç%"%Add "<th>" headers to this "<table>".(‘ùÎö
+IWeb:TableWithoutCaptionCheckÃ&" Add a description to this table.(¢öÀ„
+;	Web:S5256Ã&"%Add "<th>" headers to this "<table>".(¢öÀ„
+IWeb:TableWithoutCaptionCheckŸ'" Add a description to this table.(˜ï·à
+;	Web:S5256Ÿ'"%Add "<th>" headers to this "<table>".(˜ï·à
+NWeb:TableWithoutCaptionCheckß'" Add a description to this table.(ÖÓ‹Ğúÿÿÿÿ
+@	Web:S5256ß'"%Add "<th>" headers to this "<table>".(ÖÓ‹Ğúÿÿÿÿ
+IWeb:TableWithoutCaptionCheck»(" Add a description to this table.(¥ŞÛ–
+;	Web:S5256»("%Add "<th>" headers to this "<table>".(¥ŞÛ–
+IWeb:TableWithoutCaptionCheck—)" Add a description to this table.(çä¾
+;	Web:S5256—)"%Add "<th>" headers to this "<table>".(çä¾
+NWeb:TableWithoutCaptionCheckó)" Add a description to this table.(¤œÓµúÿÿÿÿ
+@	Web:S5256ó)"%Add "<th>" headers to this "<table>".(¤œÓµúÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÏ*" Add a description to this table.(İœïûıÿÿÿÿ
+@	Web:S5256Ï*"%Add "<th>" headers to this "<table>".(İœïûıÿÿÿÿ
+NWeb:TableWithoutCaptionCheck«+" Add a description to this table.(åØõİÿÿÿÿÿ
+@	Web:S5256«+"%Add "<th>" headers to this "<table>".(åØõİÿÿÿÿÿ
+IWeb:TableWithoutCaptionCheck‡," Add a description to this table.(Ë‚…È
+;	Web:S5256‡,"%Add "<th>" headers to this "<table>".(Ë‚…È
+IWeb:TableWithoutCaptionCheckã," Add a description to this table.(µóÀ
+;	Web:S5256ã,"%Add "<th>" headers to this "<table>".(µóÀ
+NWeb:TableWithoutCaptionCheck¿-" Add a description to this table.(ùüÄşúÿÿÿÿ
+@	Web:S5256¿-"%Add "<th>" headers to this "<table>".(ùüÄşúÿÿÿÿ
+NWeb:TableWithoutCaptionCheck›." Add a description to this table.(œ¶Êîúÿÿÿÿ
+@	Web:S5256›."%Add "<th>" headers to this "<table>".(œ¶Êîúÿÿÿÿ
+NWeb:TableWithoutCaptionCheckÛ." Add a description to this table.(ŠÆºÇøÿÿÿÿ
+@	Web:S5256Û."%Add "<th>" headers to this "<table>".(ŠÆºÇøÿÿÿÿ
+IWeb:TableWithoutCaptionCheck·/" Add a description to this table.(¸–¦°
+;	Web:S5256·/"%Add "<th>" headers to this "<table>".(¸–¦°
+IWeb:TableWithoutCaptionCheck÷/" Add a description to this table.(æüÍÎ
+;	Web:S5256÷/"%Add "<th>" headers to this "<table>".(æüÍÎ
+NWeb:TableWithoutCaptionCheckÓ0" Add a description to this table.(†¡ªúÿÿÿÿ
+@	Web:S5256Ó0"%Add "<th>" headers to this "<table>".(†¡ªúÿÿÿÿ
+NWeb:TableWithoutCaptionCheck“1" Add a description to this table.(¤¾ñÖúÿÿÿÿ
+@	Web:S5256“1"%Add "<th>" headers to this "<table>".(¤¾ñÖúÿÿÿÿ
+IWeb:TableWithoutCaptionCheckÓ1" Add a description to this table.(šµ‰ü
+;	Web:S5256Ó1"%Add "<th>" headers to this "<table>".(šµ‰ü
+IWeb:TableWithoutCaptionCheck¯2" Add a description to this table.(ã‡¨ü
+;	Web:S5256¯2"%Add "<th>" headers to this "<table>".(ã‡¨ü
+NWeb:TableWithoutCaptionCheck‹3" Add a description to this table.(‘Î£§şÿÿÿÿ
+@	Web:S5256‹3"%Add "<th>" headers to this "<table>".(‘Î£§şÿÿÿÿ
+IWeb:TableWithoutCaptionCheckç3" Add a description to this table.(İùÑì
+;	Web:S5256ç3"%Add "<th>" headers to this "<table>".(İùÑì
+IWeb:TableWithoutCaptionCheckÃ4" Add a description to this table.(ÙªŸ
+;	Web:S5256Ã4"%Add "<th>" headers to this "<table>".(ÙªŸ
+IWeb:TableWithoutCaptionCheckŸ5" Add a description to this table.(¢ï³û
+;	Web:S5256Ÿ5"%Add "<th>" headers to this "<table>".(¢ï³û
+YWeb:FrameWithoutTitleCheck¥:"-Add a "title" attribute to this <iframe> tag.(ÃË‹ûÿÿÿÿ
+ajavascript:S4030Ğ"?Either use this collection's contents or remove the collection.(µÿÛúÿÿÿÿ
+xjavascript:S6582°"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(©ØõŸ
+}javascript:S6582ê"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(²Áùÿÿÿÿ
+hjavascript:S1764Î"KCorrect one of the identical sub-expressions on both sides of operator "=="(üê¶
+mjavascript:S1764Ï"KCorrect one of the identical sub-expressions on both sides of operator "=="(–Ò÷³ùÿÿÿÿ
+hjavascript:S1764‡"KCorrect one of the identical sub-expressions on both sides of operator "=="(üê¶
+mjavascript:S1764ˆ"KCorrect one of the identical sub-expressions on both sides of operator "=="(–Ò÷³ùÿÿÿÿ
+]javascript:S2589Ä6"@This always evaluates to truthy. Consider refactoring this code.(Ç¿½ú
++	css:S4658"Unexpected empty block(®ÄŸí
+,	css:S4658Ÿ"Unexpected empty block(æ¦ìœ
+A	css:S4649Â"&Unexpected missing generic font family(Æ»ş€şÿÿÿÿ
+]	css:S4666ø"BUnexpected duplicate selector ".link_17c", first used at line 2413(Âõ®şúÿÿÿÿ
+]	css:S4666£"BUnexpected duplicate selector ".link_17c", first used at line 2413(Âõ®şúÿÿÿÿ
+2	css:S4667­"Unexpected empty source(ú÷˜Ÿÿÿÿÿÿ
+-	css:S4667á"Unexpected empty source(¥–ß’
+-	css:S4667¥"Unexpected empty source(«îìû
+2	css:S4667Ø<"Unexpected empty source(Œ˜’ûÿÿÿÿ

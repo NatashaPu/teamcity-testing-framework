@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98c7b169-9d6c-4267-98eb-7d784ee22620" name="Changes" comment="rm index.html" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2mjGhzb61KuJ4z25byH19AOdBjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Natasha/IdeaProjects/WorkshopWTF/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Natasha/Desktop/teamcity-workshop/selenoid/config/browsers.json&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.teamcity.ui.pages" />
+      <recent name="com.example.teamcity.ui" />
+      <recent name="com.example.teamcity.api.models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Natasha\IdeaProjects\WorkshopWTF\.swagger-coverage-commondline" />
+      <recent name="C:\Users\Natasha\IdeaProjects\WorkshopWTF" />
+      <recent name="C:\Users\Natasha\IdeaProjects\WorkshopWTF\swagger-coverage" />
+      <recent name="C:\Users\Natasha\IdeaProjects\WorkshopWTF\.mvn\wrapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.teamcity.ui" />
+      <recent name="com.example.teamcity.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BuildTypeTest.userCreatesBuildTypeTest">
+    <configuration name="BuildTypeTest.userCreatesBuildTypeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WorkshopWTF" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.teamcity.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.example.teamcity.api" />
+      <option name="MAIN_CLASS_NAME" value="com.example.teamcity.api.BuildTypeTest" />
+      <option name="METHOD_NAME" value="userCreatesBuildTypeTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildTypeTest.userCreatesTwoBuildTypesWithTheSameIdTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WorkshopWTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.teamcity.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.teamcity.api" />
+      <option name="MAIN_CLASS_NAME" value="com.example.teamcity.api.BuildTypeTest" />
+      <option name="METHOD_NAME" value="userCreatesTwoBuildTypesWithTheSameIdTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBuildTypeTest.userCreateBuildTypeWithEmptyName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WorkshopWTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.teamcity.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.teamcity.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.example.teamcity.ui.CreateBuildTypeTest" />
+      <option name="METHOD_NAME" value="userCreateBuildTypeWithEmptyName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBuildTypeTest.userCreatesBuildType" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WorkshopWTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.teamcity.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.teamcity.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.example.teamcity.ui.CreateBuildTypeTest" />
+      <option name="METHOD_NAME" value="userCreatesBuildType" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupServerTest.setupTeamCityServerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WorkshopWTF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.teamcity.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.teamcity.ui" />
+      <option name="MAIN_CLASS_NAME" value="com.example.teamcity.ui.SetupServerTest" />
+      <option name="METHOD_NAME" value="setupTeamCityServerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SetupServerTest.setupTeamCityServerTest" />
+      <item itemvalue="TestNG.BuildTypeTest.userCreatesBuildTypeTest" />
+      <item itemvalue="TestNG.BuildTypeTest.userCreatesTwoBuildTypesWithTheSameIdTest" />
+      <item itemvalue="TestNG.CreateBuildTypeTest.userCreateBuildTypeWithEmptyName" />
+      <item itemvalue="TestNG.CreateBuildTypeTest.userCreatesBuildType" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BuildTypeTest.userCreatesBuildTypeTest" />
+        <item itemvalue="TestNG.SetupServerTest.setupTeamCityServerTest" />
+        <item itemvalue="TestNG.BuildTypeTest.userCreatesTwoBuildTypesWithTheSameIdTest" />
+        <item itemvalue="TestNG.CreateBuildTypeTest.userCreateBuildTypeWithEmptyName" />
+        <item itemvalue="TestNG.CreateBuildTypeTest.userCreatesBuildType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c7b169-9d6c-4267-98eb-7d784ee22620" name="Changes" comment="" />
+      <created>1727582697833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727582697833</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add example build configuration test">
+      <created>1727844670695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727844670695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add config, spec, base test">
+      <created>1727845787998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727845787998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Практика Поддержка запросов">
+      <created>1728099259877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728099259877</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Генерация тестовых данных">
+      <created>1728206036689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728206036689</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Тест на создание билд конфигурации">
+      <created>1728322252578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728322252578</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Улучшаем тест на билд конфигурацию">
+      <created>1728365823746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728365823746</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавлена генерация данных и хранилище данных">
+      <created>1728496499951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728496499951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Домашка по API тестам">
+      <created>1728581012157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728581012157</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Установка настроек сервера (CI/CD первая практика)">
+      <created>1731855655989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731855655989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add CI">
+      <created>1732161965833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732161965833</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix path in CI">
+      <created>1732162733458</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732162733458</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix path in CI">
+      <created>1732163237607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732163237607</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix path in CI">
+      <created>1732163542335</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732163542335</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix runs in CI">
+      <created>1732163716431</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1732163716431</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix runs in automation.yml">
+      <created>1732163839979</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1732163839979</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix \ in backend-stage.yml">
+      <created>1732163946932</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1732163946932</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add mvn">
+      <created>1732354800358</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732354800358</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add mvn executable">
+      <created>1732357548669</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732357548669</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add mvn executable in action">
+      <created>1732357894232</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1732357894232</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add shell: bash">
+      <created>1732359169683</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1732359169683</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add java 19">
+      <created>1732359776724</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1732359776724</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add swagger coverage">
+      <created>1732469439121</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732469439121</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix swagger coverage">
+      <created>1732469656371</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732469656371</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add gitignore">
+      <created>1732470170951</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1732470170951</updated>
+    </task>
+    <task id="LOCAL-00025" summary="rm allure results">
+      <created>1732470455408</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1732470455408</updated>
+    </task>
+    <task id="LOCAL-00026" summary="rm index.html">
+      <created>1732470720336</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1732470720336</updated>
+    </task>
+    <task id="LOCAL-00027" summary="rm index.html">
+      <created>1732471733968</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1732471733968</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rm index.html">
+      <created>1732472037426</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1732472037426</updated>
+    </task>
+    <task id="LOCAL-00029" summary="rm index.html">
+      <created>1732473474285</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1732473474285</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add example build configuration test" />
+    <MESSAGE value="Add config, spec, base test" />
+    <MESSAGE value="Практика Поддержка запросов" />
+    <MESSAGE value="Генерация тестовых данных" />
+    <MESSAGE value="Тест на создание билд конфигурации" />
+    <MESSAGE value="Улучшаем тест на билд конфигурацию" />
+    <MESSAGE value="Добавлена генерация данных и хранилище данных" />
+    <MESSAGE value="Домашка по API тестам" />
+    <MESSAGE value="Домашка по UI тестам (позитивный и негативный тест на создание билда" />
+    <MESSAGE value="Установка настроек сервера (CI/CD первая практика)" />
+    <MESSAGE value="add CI" />
+    <MESSAGE value="fix path in CI" />
+    <MESSAGE value="fix runs in CI" />
+    <MESSAGE value="fix runs in automation.yml" />
+    <MESSAGE value="fix \ in backend-stage.yml" />
+    <MESSAGE value="add mvn" />
+    <MESSAGE value="add mvn executable" />
+    <MESSAGE value="add mvn executable in action" />
+    <MESSAGE value="add shell: bash" />
+    <MESSAGE value="add java 19" />
+    <MESSAGE value="add swagger coverage" />
+    <MESSAGE value="fix swagger coverage" />
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="rm allure results" />
+    <MESSAGE value="rm index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="rm index.html" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/teamcity/api/BuildTypeTest.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/teamcity/ui/pages/admin/CreateBuildConfigurationPage.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/teamcity/ui/pages/admin/CreateBuildConfigurationPage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/teamcity/ui/pages/admin/CreateBuildConfigurationPage.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/teamcity/ui/pages/admin/CreateBuildConfigurationPage.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
