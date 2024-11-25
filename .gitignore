@@ -1,0 +1,5 @@
+# Игнорировать отчёты Allure
+     allure-results/
+     allure-report/
+# Игнорировать конфиги с хостом и superUserToken
+     src/main/resources/config.properties
