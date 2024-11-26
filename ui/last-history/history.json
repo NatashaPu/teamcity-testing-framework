@@ -1,0 +1,1 @@
+{"2e6df2301e4e82e0f0a5e36536b6aca1":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"40dcc6b3c72a831a","reportUrl":"https://NatashaPu.github.io/teamcity-testing-framework/ui/15//#testresult/40dcc6b3c72a831a","status":"passed","time":{"start":1732592695042,"stop":1732592752648,"duration":57606}}]}}

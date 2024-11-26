@@ -1,20 +1,0 @@
-
-cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(åœøèıÿÿÿÿ
-NWeb:TableWithoutCaptionCheckî" Add a description to this table.(‡ìÔùÿÿÿÿ
-@	Web:S5256î"%Add "<th>" headers to this "<table>".(‡ìÔùÿÿÿÿ
-NWeb:TableWithoutCaptionCheck„" Add a description to this table.(¿‰˜ÿÿÿÿÿ
-@	Web:S5256„"%Add "<th>" headers to this "<table>".(¿‰˜ÿÿÿÿÿ
-YWeb:FrameWithoutTitleCheck‘"-Add a "title" attribute to this <iframe> tag.(ÃË‹ûÿÿÿÿ
-ajavascript:S4030Ğ"?Either use this collection's contents or remove the collection.(µÿÛúÿÿÿÿ
-xjavascript:S6582ß"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(©ØõŸ
-hjavascript:S1764ï"KCorrect one of the identical sub-expressions on both sides of operator "=="(üê¶
-mjavascript:S1764ğ"KCorrect one of the identical sub-expressions on both sides of operator "=="(–Ò÷³ùÿÿÿÿ
-xjavascript:S6582è"[Prefer using an optional chain expression instead, as it's more concise and easier to read.(©ØõŸ
-+	css:S4658"Unexpected empty block(®ÄŸí
-,	css:S4658Ë"Unexpected empty block(æ¦ìœ
-A	css:S4649Â"&Unexpected missing generic font family(Æ»ş€şÿÿÿÿ
-]	css:S4666¤"BUnexpected duplicate selector ".link_17c", first used at line 2457(Âõ®şúÿÿÿÿ
-]	css:S4666Ï"BUnexpected duplicate selector ".link_17c", first used at line 2457(Âõ®şúÿÿÿÿ
-2	css:S4667Ù"Unexpected empty source(ú÷˜Ÿÿÿÿÿÿ
--	css:S4667Œ"Unexpected empty source(„¬Ñ†
-2	css:S4667Ä"Unexpected empty source(Œ˜’ûÿÿÿÿ
