@@ -1,0 +1,8 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ÂŠÊÆ¤2
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Óùÿ¿8ÑŠÊÆ¤2
+g
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(¦Ç‹øÿÿÿÿ8ÒŠÊÆ¤2
+L	java:S106"+Replace this use of System.err by a logger.(µ¾§ƒúÿÿÿÿ8ØŠÊÆ¤2
+F	java:S106 "+Replace this use of System.err by a logger.(Ğ~8ÙŠÊÆ¤2
